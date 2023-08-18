@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+.form{
+  display: flex;
+  justify-content: space-between;
+}
+
+.formTemplate{
+  display: flex;
+  flex-direction: column;
+  gap:5px;
+}
+
+.label{
+  size: 100px
+}
+.versions{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.home{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+/* .table{
+  width: 200px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+  width: 
+} */
